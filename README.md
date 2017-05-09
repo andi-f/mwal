@@ -1,6 +1,6 @@
 # mwal
 Microwave absorption loss calculate the additional loss by water vapour, oxygen, fog and rain in the atmosphere.
-It programm is writen in C and use GTK2.
+The programm is writen in C and use GTK2.
 
 References:
 
